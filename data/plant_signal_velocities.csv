@@ -1,0 +1,38 @@
+Signal Type,Velocity/Rate,System/Tissue,Measurement Method,Primary Citation,Biological Function
+Action Potentials (Fast),2-105 m/s,Leaf/stem tissues,Microelectrode recording,"Volkov, 2019",Rapid stress response
+Action Potentials (Slow),2-9 mm/s,Whole plant systemic,Surface electrode arrays,"Macedo et al., 2021",Systemic signaling
+Variation Potentials,1-5 mm/s,Wounded/stressed tissues,Extracellular recording,"Sukhov, 2021",Wound response
+System Potentials,0.5-2 mm/s,Environmental stress,Voltage monitoring,"Sukhov, 2021",Environmental adaptation
+Plant-to-Plant Electrical,10-100 mm/s,Inter-plant networks,Multi-electrode networks,"Baluška & Mancuso, 2009",Inter-plant communication
+Root-to-Shoot Bioelectric,50-200 mm/s,Vascular bundles,Long-distance recording,"Gilroy et al., 2014",Long-distance coordination
+Membrane Depolarization,1-10 ms response,Plasma membrane,Patch-clamp,"Hedrich et al., 2016",Membrane excitability
+Calcium Waves (Gravitropic),150-400 μm/s,Root columella cells,Confocal Ca²⁺ imaging,"Toyota et al., 2013",Gravitropic sensing
+Calcium Waves (Salt Stress),~400 μm/s,Root-shoot axis,GCaMP fluorescence,"Gilroy et al., 2014",Salt stress signaling
+Calcium Waves (Wound),200-500 μm/s,Wound sites,Calcium indicators,"Knight et al., 1991",Wound signaling
+Calcium Waves (Touch),100-300 μm/s,Mechanosensitive cells,Fluo-4/Fura-2 imaging,"Monshausen et al., 2009",Touch response
+Calcium Oscillations,0.1-1 Hz oscillation,Cytoplasmic domains,Ratiometric imaging,"McAinsh & Pittman, 2009",Circadian regulation
+Ca²⁺ Cytoplasmic Streaming,0.6-7.26 μm/s,Streaming cytoplasm,PIV cytoplasm tracking,"Shimmen, 2015",Organelle transport
+Auxin Pulse Propagation,2-10 mm/h,Stem/coleoptile,Radiotracer analysis,"Goldsmith, 1977",Tropic responses
+PIN Protein Cycling,2-4 h turnover,PIN protein domains,Fluorescent PIN tracking,"Kleine-Vehn et al., 2011",Polar transport
+Auxin Gradient Formation,10-100 μm/min,Developing organs,DII-VENUS gradients,"Band et al., 2012",Pattern formation
+Polar Auxin Transport,10-20 mm/h,Vascular tissues,Auxin biosensor imaging,"Kramer, 2004",Vascular development
+Auxin Efflux Dynamics,1-5 min response,Cell-cell transport,SCFTIR1/AFB reporters,"Kuhn et al., 2024",Cell-cell signaling
+Auxin Influx (AUX1),30-180 s influx,Root hair cells,AUX1 transport assays,"Dindas et al., 2018",Rapid auxin uptake
+Cytokinin Gradients,1-10 μm/min,Shoot apical meristem,Hormone biosensors,"Mok & Mok, 2001",Shoot development
+Gibberellin Gradients,5-50 μm/min,Elongation zones,Immunolocalization,"Hedden & Thomas, 2012",Stem elongation
+Ethylene Diffusion,100-1000 μm/s diffusion,Gas spaces,Gas chromatography,"Abeles et al., 1992",Fruit ripening
+Brassinosteroid Gradients,0.1-1 μm/min,Cell walls/membranes,Fluorescent reporters,"Clouse & Sasse, 1998",Cell expansion
+Abscisic Acid Gradients,1-5 μm/min,Root/shoot tissues,qRT-PCR gradients,"Finkelstein, 2013",Stress responses
+Jasmonic Acid Propagation,10-100 μm/s,Vascular system,Mass spectrometry,"Wasternack & Hause, 2013",Defense signaling
+Mechanosensitive Responses,1-100 ms response,Mechanoreceptor cells,Force transducers,"Monshausen & Haswell, 2013",Mechanotransduction
+Acoustic Wave Propagation,100-5000 m/s,Plant tissues,Acoustic spectroscopy,"Sueur et al., 2012",Plant communication
+Phonon Transport,1000-5000 m/s,Phonon networks,Phonon spectroscopy,"Kittel, 2005",Heat transport
+Standing Wave Patterns,f = v/2L eigenmode,Stem eigenmodes,Vibrational analysis,"Niklas, 1992",Structural resonance
+Surface Acoustic Waves,100-1000 m/s,Plant surfaces,SAW devices,"Campbell & Jones, 2011",Surface manipulation
+Longitudinal W-Waves,~1 m/s,Living tissue matrix,Electronic detection,"Wagner & Wagner, 1999",Environmental sensing
+Cell Division Waves,0.1-1 μm/min,Meristematic zones,Time-lapse microscopy,"Campilho et al., 2006",Cell proliferation
+Growth Velocity Fields,0.1-10 μm/min,Growing organs,Optical flow analysis,"Pradeep et al., 2022",Organ growth
+Morphogenetic Fronts,1-100 μm/min,Developmental fronts,Morphometric tracking,"Douady & Couder, 1996",Pattern establishment
+Pattern Formation Waves,10-1000 μm/min,Pattern boundaries,Pattern analysis,"Yonekura et al., 2024",Morphological transitions
+Tissue Deformation,0.01-1 μm/min,Cell wall networks,AFM deformation,"Bidhendi & Geitmann, 2019",Tissue mechanics
+Hydraulic Pressure Waves,1-10 m/s,Xylem/phloem,Pressure sensors,"Holbrook & Zwieniecki, 1999",Transport regulation
